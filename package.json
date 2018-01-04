@@ -1,0 +1,24 @@
+{
+  "name": "lvm-loader",
+  "version": "0.1.0",
+  "description": "lvm html webpack loader",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lock1995/lvm-loader.git"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "lvm"
+  ],
+  "author": "Lock",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lock1995/lvm-loader/issues"
+  },
+  "homepage": "https://github.com/lock1995/lvm-loader#readme"
+}

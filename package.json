@@ -17,6 +17,15 @@
   ],
   "author": "Lock",
   "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^6.5.1",
+    "babel-core": "^6.18.2",
+    "cheerio": "^0.22.0",
+    "clean-css": "^3.4.20",
+    "css": "^2.2.1",
+    "postcss": "^5.2.18",
+    "postcss-modules": "^0.5.2"
+  },
   "bugs": {
     "url": "https://github.com/lock1995/lvm-loader/issues"
   },

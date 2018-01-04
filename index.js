@@ -4,10 +4,9 @@ var autoprefixer = require('autoprefixer')
 var postcss = require('postcss')
 var babel = require("babel-core")
 var css = require('css')
+var postcssModules = require('postcss-modules')
 var path = require('path')
 var fs = require('fs')
-var postcssModules = require('postcss-modules')
-var through = require('through2')
 
 module.exports = function(content) {
   this.cacheable()
